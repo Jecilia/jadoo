@@ -1,3 +1,7 @@
 export function App() {
-  return <h1>olá jadoo</h1>
+  return (
+    <div className="top-0 my-1 flex flex-col">
+      <h1>Jadoo</h1>
+    </div>
+  );
 }
